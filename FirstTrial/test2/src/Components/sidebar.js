@@ -1,5 +1,4 @@
 import { makeStyles } from "@material-ui/core";
-import { width } from "@material-ui/system";
 import react from "react";
 
 const useStyles = makeStyles( theme => ({
